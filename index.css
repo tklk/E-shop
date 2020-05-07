@@ -1,0 +1,166 @@
+.normal
+{
+	background-image:url(./images/index.jpg);
+	background-size: 100%;
+	background-color: white;
+	color: #1C2F46;
+	margin-top: 0px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-size: 18px;
+	font-family:Microsoft JhengHei;
+}
+
+.member
+{
+	background-color: white;
+	color: #1C2F46;
+	margin-top: 0px;	
+	font-size: 18px;
+}
+
+.top
+{
+	padding-top: 16px;
+	padding-bottom: 16px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: Andale Mono, monospace;
+	font-size: 35px;
+}
+
+.top_user
+{
+	text-align: right; 
+	padding-bottom: 20px;
+}
+
+.list
+{
+	text-align: right;
+	display: inline;
+	list-style-position: inside;
+}
+	
+.top_reset
+{
+	padding-top: 16px;
+	padding-bottom: 16px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: Andale Mono, monospace;
+	font-size: 24px;
+}
+
+.form_login
+{
+	margin:12% 0% 0% 65%;
+	text-align: center;
+	border: #FFFFFF 0px solid;
+	padding: 0px 0px 0px 0px;
+	color: #182b45;
+}
+
+.form_signin
+{
+	margin:12% 0% 0% 65%;
+	text-align: center;
+	border: #FFFFFF 0px solid;
+	padding: 0px 0px 0px 0px;
+	color: #182b45;
+}
+
+.form_reset
+{
+	margin:8% 0% 0% 68%;
+	text-align: center;
+	border: #FFFFFF 0px solid;
+	padding: 0px 0px 0px 0px;
+	color: #182b45;
+}
+
+.member_txt
+{
+	font-size: 24px;
+}
+
+.error
+{
+	color: red;
+	font-size: 20px;
+}
+
+.required
+{
+	font-size: 18px;
+	font-weight: 400;
+	padding-bottom: 6px;
+}
+
+.user_input
+{
+	font-weight: 100;
+}
+
+.user_input:focus
+{
+	font-weight: 100;
+	width: 200px;
+}
+.context
+{
+	font-size: 24px;
+}
+
+.submit
+{	
+	background-color: #2BAFE9;
+	color: white;
+	border: 0px;
+	height: 30px;
+	font-family: Verdana, Geneva, sans-serif;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.firstpage_sol
+{
+	padding-top:700px;
+	padding-left:42%;
+}
+
+.sol
+{	
+	background-color: #2BAFE9;
+	color: white;
+	border: 0px;
+	height: 30px;
+	font-family: Verdana, Geneva, sans-serif;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-top:0px; 
+}
+
+.a
+{
+	text-decoration: none;
+	color: #00b66e;
+}
+
+.b
+{
+	text-decoration: none;
+	color: white;
+}
+
+.c
+{
+	text-decoration: none;
+	color: #6c6b70;
+}
+
+.hint
+{
+	font-size: 12px;
+}
